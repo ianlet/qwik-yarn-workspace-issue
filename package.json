@@ -1,0 +1,7 @@
+{
+  "name": "qwik-yarn-workspace-issue",
+  "packageManager": "yarn@3.6.3",
+  "workspaces": [
+    "apps/*"
+  ]
+}
